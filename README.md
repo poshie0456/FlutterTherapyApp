@@ -1,4 +1,4 @@
-![IMG_0781](https://github.com/poshie0456/FlutterTherapyApp/assets/87022737/f45dd9ae-8113-4ff3-bec9-331778881094)# FlutterTherapyApp
+# FlutterTherapyApp
 An app that uses OpenAI TTS integration along with chatGPT 3.5 turbo using the flutter framework along with features, such as diary, and onboarding screens. Uses audio player to play audio data retrieved from the OpenAI TTS API for realistic responses, demonstrates
 <br />
 ✅UI design
@@ -22,7 +22,7 @@ An app that uses OpenAI TTS integration along with chatGPT 3.5 turbo using the f
 
 
 https://github.com/poshie0456/FlutterTherapyApp/assets/87022737/03e22fe1-5721-4ec9-80bc-dc56c56414cc
-
+![IMG_0781](https://github.com/poshie0456/FlutterTherapyApp/assets/87022737/f45dd9ae-8113-4ff3-bec9-331778881094)
 
 
 ![IMG_0783](https://github.com/poshie0456/FlutterTherapyApp/assets/87022737/ac85a10f-94a6-4f43-824d-8d612b9d4940)
