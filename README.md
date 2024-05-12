@@ -21,7 +21,7 @@ An app that uses OpenAI TTS integration along with chatGPT 3.5 turbo using the f
 
 
 
-https://github.com/poshie0456/FlutterTherapyApp/assets/87022737/03e22fe1-5721-4ec9-80bc-dc56c56414cc
+Example of Text to speech being sent to chatgpt and a response as an mp4 audio being retriveved from the OpenAI TTS API: https://github.com/poshie0456/FlutterTherapyApp/assets/87022737/03e22fe1-5721-4ec9-80bc-dc56c56414cc
 ![IMG_0781](https://github.com/poshie0456/FlutterTherapyApp/assets/87022737/f45dd9ae-8113-4ff3-bec9-331778881094)
 
 
